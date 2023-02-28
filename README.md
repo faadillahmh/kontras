@@ -7,5 +7,5 @@ Berikut kode program yang digunakan untuk pekerjaan Tesis:
   2.  komputasi-model.ipynb //
       Kode ini digunakan untuk melakukan komputasi model kontras hilal dan visualisasi kontras pengamatan
   3.  model-akhir.ipynb //
-      Kode ini digunakan untuk memabngun model limit kontras citra hilal
+      Kode ini digunakan untuk membangun model limit kontras citra hilal
       
